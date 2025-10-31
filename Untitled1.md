@@ -18,9 +18,8 @@ state를 통해서 미분방정식을 행렬방정식으로 풀수있도록 stat
 
 
 
-![image.png](5a6c7ed6-3587-4b30-aae5-8a285acd5db0.png)
-
-![image.png](9a771002-5216-49f5-820e-e76e78791d8a.png)
+![System model](./12.png)
+![Mass-spring model](./34.png)
 
 
 ```python
